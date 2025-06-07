@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh721940
 - 👀 I’m interested in  Robotics & Eletronics
-- 🌱 I’m currently learning C++, Python, Raspberry Pi
+- 🌱 I’m currently learning Esp32, Raspberry Pi,MATLAB
 - 💞️ I’m looking to collaborate on Projects on Robotics 
 - 📫 How to reach me harshbk1775@gmail.com
 - 😄 Pronouns: ...
